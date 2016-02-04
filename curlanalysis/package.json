@@ -1,0 +1,17 @@
+{
+  "name": "curlanalysis",
+  "version": "1.0.0",
+  "description": "Analyzing curl requests for timeouts and general respons times",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "curl"
+  ],
+  "author": "sunshah@yahoo-inc.com",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.61.0"
+  }
+}

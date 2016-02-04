@@ -1,0 +1,11 @@
+{
+  "name": "priorityqueue",
+  "version": "1.0.0",
+  "description": "Priority queue implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
