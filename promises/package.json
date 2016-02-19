@@ -1,0 +1,15 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sunshah",
+  "dependencies": {
+    "bluebird": "~3.2.1",
+    "request": "~2.69.0"
+  },
+  "license": "ISC"
+}
