@@ -1,0 +1,11 @@
+{
+  "name": "context",
+  "version": "1.0.0",
+  "description": "Reverse context lookup",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sunshah",
+  "license": "ISC"
+}
