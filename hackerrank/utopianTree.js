@@ -25,6 +25,7 @@ function utopianTreeHeight(currentHeight, years) {
         return currentHeight;
     }
     newHeight = currentHeight*2 + 1;
+    /* each year has 2 growth cycles */
     newYear = years - 2;
     return utopianTreeHeight(newHeight, newYear);
 }
